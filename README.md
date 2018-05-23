@@ -16,4 +16,4 @@ Long Short Term Memory is a special kind of RNN capable of learning Long Term de
 
 
 
-Note: The MNIST data and code is just used as an example. Please stay tuned for LSTM and RNN code.
+Note: The MNIST data and code is just used as an example. Please stay tuned for generative models integration.
